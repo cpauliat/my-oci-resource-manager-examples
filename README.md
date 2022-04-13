@@ -1,4 +1,5 @@
-# oci_resource_manager
+# my-oci-resource-manager-examples
+
 my examples of OCI Resource Manager Stacks (Terraform as a service in Oracle Cloud Infrastructure)
 
 ### 01_OCI_demo_vcn_OL7_instance.zip
@@ -14,5 +15,5 @@ Details:
     - for compute instance: availability domain, shape, SSH public key
 
 
-Last update: October 6, 2020
+Last update: April 13, 2022
 ```
